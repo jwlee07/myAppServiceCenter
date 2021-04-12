@@ -62,5 +62,6 @@
 
 9. 개인정보 보호책임자 작성
 ```
+Name : 이진욱
 email : apzk21413@gmail.com
 ```
